@@ -536,7 +536,7 @@ _See code: [src/commands/contract/query.ts](https://github.com/inkdevhub/swanky-
 
 ## `swanky contract test [CONTRACTNAME]`
 
-Run tests for a given contact
+Run tests for a given contract
 
 ```
 USAGE
@@ -551,7 +551,7 @@ FLAGS
       --mocha    Run tests with mocha
 
 DESCRIPTION
-  Run tests for a given contact
+  Run tests for a given contract
 ```
 
 _See code: [src/commands/contract/test.ts](https://github.com/inkdevhub/swanky-cli/blob/v4.0.0/src/commands/contract/test.ts)_
